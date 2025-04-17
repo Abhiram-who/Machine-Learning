@@ -55,8 +55,8 @@ Structured data containing patient attributes like age, cholesterol, blood press
 
 - Logistic Regression performed consistently well across different validation sets.
 
-![](Data\pics\output1.png)
-![](Data\pics\output2.png)
+![](Data/pics/output1.png)
+![](Data/pics/output2.png)
 ##
 ### 2. 📧 Spam Email Detection
 
