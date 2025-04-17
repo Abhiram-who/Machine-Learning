@@ -54,6 +54,9 @@ Structured data containing patient attributes like age, cholesterol, blood press
 - Achieved an accuracy score of around 85-90% (depending on model).
 
 - Logistic Regression performed consistently well across different validation sets.
+
+![](Data\pics\output1.png)
+![](Data\pics\output2.png)
 ##
 ### 2. 📧 Spam Email Detection
 
