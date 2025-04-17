@@ -124,6 +124,6 @@ Collection of labeled email messages (Spam vs Ham).
 | Project                 | Best Model          | Accuracy | Highlights                                |
 |--------------------------|---------------------|----------|-------------------------------------------|
 | Heart Disease Detection  | Logistic Regression | ~88%     | ROC Curve AUC > 0.85                      |
-| Spam Email Detection     | Naive Bayes          | ~98%     | High precision on spam classification     |
+| Spam Email Detection     | Naive Bayes         | ~98%     | High precision on spam classification     |
 
 
